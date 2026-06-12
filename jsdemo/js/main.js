@@ -102,3 +102,4 @@ class UserPanels {
     }
 }
 let userPanels = new UserPanels(arr);
+// коментар для завдання (Якимчук Іван)
